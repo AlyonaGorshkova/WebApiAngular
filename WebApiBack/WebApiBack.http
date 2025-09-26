@@ -1,0 +1,6 @@
+@WebApiBack_HostAddress = http://localhost:5263
+
+GET {{WebApiBack_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

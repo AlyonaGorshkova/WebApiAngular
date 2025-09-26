@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36327.8
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApiBack", "WebApiBack\WebApiBack.csproj", "{826AF9B1-C49A-49A9-9BF2-594E6C9C13D1}"
+EndProject
+Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "SPA", "SPA\SPA.esproj", "{DA19B3D3-EA57-F792-09DF-8983B7DE541B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{826AF9B1-C49A-49A9-9BF2-594E6C9C13D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{826AF9B1-C49A-49A9-9BF2-594E6C9C13D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{826AF9B1-C49A-49A9-9BF2-594E6C9C13D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{826AF9B1-C49A-49A9-9BF2-594E6C9C13D1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DA19B3D3-EA57-F792-09DF-8983B7DE541B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA19B3D3-EA57-F792-09DF-8983B7DE541B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA19B3D3-EA57-F792-09DF-8983B7DE541B}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{DA19B3D3-EA57-F792-09DF-8983B7DE541B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA19B3D3-EA57-F792-09DF-8983B7DE541B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DA19B3D3-EA57-F792-09DF-8983B7DE541B}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F52E135C-6E2C-4397-BC95-D386BF24CB88}
+	EndGlobalSection
+EndGlobal
